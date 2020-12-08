@@ -1,0 +1,4 @@
+.idea/
+datasets/
+__pychache__/
+trump_tweet_model_weights.hdf5
