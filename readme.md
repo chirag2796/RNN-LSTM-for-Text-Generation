@@ -23,6 +23,12 @@ This is a ML/Deep Learning and NLP project to train recurrent neural networks to
 
 *   [Trump Tweet Dataset](http://chirag2796.pythonanywhere.com/trump_tweet_dataset) [![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/)
 
+*   Schuster, Mike, and Kuldip K. Paliwal. "[Bidirectional recurrent neural networks](https://ieeexplore.ieee.org/abstract/document/650093/)".  IEEE transactions on Signal Processing 45.11 (1997): 2673-2681.
+
+*   Sundermeyer, M., Schlüter, R., & Ney, H. (2012). "[LSTM neural networks for language modeling](https://www.isca-speech.org/archive/interspeech_2012/i12_0194.html)". In Thirteenth annual conference of the international speech communication association.
+
+*  Tang, Jian, et al. "[Context-aware natural language generation with recurrent neural networks](https://arxiv.org/abs/1611.09900)." arXiv preprint arXiv:1611.09900 (2016).
+
 
 ## Implementation Guide
 
