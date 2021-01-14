@@ -8,9 +8,9 @@ This is a ML/Deep Learning and NLP project to train recurrent neural networks to
 [![Generic badge](https://img.shields.io/badge/tensorflow-1.14-orange.svg)](https://shields.io/)
 
 
-## About Implementation
+## About the Project
 
-*   A Reccurent Neural Network with LSTM nodes implementation for text generation, trained on Donald Trump tweets dataset using contextual labels, and can generate realistic ones from random noise.
+*   A Recurent Neural Network with LSTM nodes implementation for text generation, trained on Donald Trump tweets dataset using contextual labels, and can generate realistic ones from random noise.
 *   Ability to use Bidirectional RNNs, techniques such as attention-weighting and skip-embedding.
 *   CuDNN implementation for training the RNNs on an nVidia GPU
 *   This project has been specifically optimised for trump tweet dataset, and generating Trump tweets, but it can be used on any text dataset.
